@@ -4,10 +4,12 @@ public class CribaRefactorizado {
 
     public static int[] generarPrimos(int max) {
         if (max < 2) {
-            return new int[0]; // Vector vacío
+            return new int[0]; 
+            // Vector vacío
         }
-
-        int dim = max + 1; // Tamaño del array
+        
+        // Tamaño del array
+        int dim = max + 1; 
         boolean[] esPrimo = new boolean[dim];
 
         // Inicializar el array
@@ -28,7 +30,7 @@ public class CribaRefactorizado {
             }
         }
 
-        // Contar primos
+        // ¿Cuántos primos hay?
         int cuenta = 0;
         for (boolean primo : esPrimo) {
             if (primo) {
