@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
 /**
- * La clase CribaErastotenes proporciona métodos para generar números primos utilizando la criba de Eratóstenes.
+ * La clase CribaRefactorizado proporciona métodos para generar números primos utilizando la criba de Eratóstenes.
  */
-public class CribaErastotenes {
+public class CribaRefactorizado {
 
     /**
      * Genera un array de números primos hasta el número máximo especificado.
