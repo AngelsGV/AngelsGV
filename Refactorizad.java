@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CribaRefactorizada {
+public class CribaRefactorizado {
 
     public static int[] generarPrimos(int max) {
         if (max < 2) {
