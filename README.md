@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello, my name is Àngels Guinot👋
+Student and worker  
 
 <!--
 **AngelsGV/AngelsGV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
